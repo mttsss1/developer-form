@@ -2,7 +2,8 @@
 
 <p align="center"> Projeto feito em React, tem como principal função simular um formulário um pouco mais elaborado!</p>
 
-<div align="center"></div>
+<div align="center">![2](https://user-images.githubusercontent.com/60020307/185745059-27dea153-1d9e-478c-8496-7928b01983e3.png)
+</div>
 
 * [Sobre](#Sobre)
 * [Tecnologias](#Tecnologias)
